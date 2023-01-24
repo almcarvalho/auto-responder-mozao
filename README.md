@@ -20,3 +20,4 @@ Link criando a máquina virtual grátis na aws:
 https://universotecnologianow.wordpress.com/2023/01/24/como-criar-uma-maquina-virtual-na-amazon-aws-por-1-ano-gratis-para-rodar-suas-aplicacoes/
 
 Instalando e rodando na aws esse projeto:
+https://universotecnologianow.wordpress.com/2023/01/24/rodando-nosso-bot-de-autoresposta-na-nossa-maquina-virtual-da-aws/
