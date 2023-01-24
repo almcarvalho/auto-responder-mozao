@@ -1,4 +1,4 @@
-# Bank - Bot Whatsapp
+# Bot - Auto Responder - Mozão no Whatsapp
 
 ![Alt Text](https://github.com/almcarvalho/auto-responder-mozao/blob/main/demo/demo.jpg)
 
