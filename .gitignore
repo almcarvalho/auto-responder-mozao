@@ -72,7 +72,7 @@ typings/
 .env
 .env.test
 
-.tokens
+.tokens/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
