@@ -1,6 +1,6 @@
 # Bank - Bot Whatsapp
 
-![Alt Text](https://github.com/almcarvalho/aula-banco-ficticio/blob/main/demo/bravo.png)
+![Alt Text](https://github.com/almcarvalho/auto-responder-mozao/blob/main/demo/demo.jpg)
 
 # auto-responder-mozao
 Responda no whatsapp bom dia automaticamente para seu mozão! Bot de auto resposta.
