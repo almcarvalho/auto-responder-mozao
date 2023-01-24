@@ -16,7 +16,7 @@ A primeira vez vai aparecer o qrcode pra liberar o acesso do seu whatsapp,
 depois fica salvo na pasta tokens e não pede mais...
 
 # hospedando o projeto na núvem
-Link criando a máquina virtual grátis na aws: 
+Link criando a máquina virtual grátis por um ano na aws: 
 https://universotecnologianow.wordpress.com/2023/01/24/como-criar-uma-maquina-virtual-na-amazon-aws-por-1-ano-gratis-para-rodar-suas-aplicacoes/
 
 Instalando e rodando na aws esse projeto:
