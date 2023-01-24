@@ -1,0 +1,26 @@
+{
+  "name": "auto-responder-mozao",
+  "version": "1.0.0",
+  "description": "Projeto de auto resposta para whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almcarvalho/auto-responder-mozao.git"
+  },
+  "keywords": [
+    "autoresposta",
+    "bot"
+  ],
+  "author": "Lucas Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almcarvalho/auto-responder-mozao/issues"
+  },
+  "homepage": "https://github.com/almcarvalho/auto-responder-mozao#readme",
+  "dependencies": {
+    "venom-bot": "^4.3.7"
+  }
+}

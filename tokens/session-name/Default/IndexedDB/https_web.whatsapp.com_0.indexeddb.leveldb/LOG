@@ -1,0 +1,21 @@
+2023/01/24-12:42:36.536 36f8 Reusing MANIFEST C:\Users\Lucas\Documents\GitHub\auto-responder-mozao\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/24-12:42:36.536 36f8 Recovering log #130
+2023/01/24-12:42:36.552 36f8 Reusing old log C:\Users\Lucas\Documents\GitHub\auto-responder-mozao\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000130.log 
+2023/01/24-12:42:52.600 3e7c Level-0 table #139: started
+2023/01/24-12:42:52.626 3e7c Level-0 table #139: 1120015 bytes OK
+2023/01/24-12:42:52.627 3e7c Delete type=0 #130
+2023/01/24-12:42:52.633 3e7c Compacting 1@1 + 5@2 files
+2023/01/24-12:42:52.701 3e7c Generated table #140@1: 36553 keys, 2227501 bytes
+2023/01/24-12:42:52.733 3e7c Generated table #141@1: 10260 keys, 2156585 bytes
+2023/01/24-12:42:52.776 3e7c Generated table #142@1: 4030 keys, 2157622 bytes
+2023/01/24-12:42:52.838 3e7c Generated table #143@1: 29315 keys, 2230121 bytes
+2023/01/24-12:42:52.904 3e7c Generated table #144@1: 88762 keys, 2235819 bytes
+2023/01/24-12:42:52.913 3e7c Generated table #145@1: 11696 keys, 245928 bytes
+2023/01/24-12:42:52.913 3e7c Compacted 1@1 + 5@2 files => 11253576 bytes
+2023/01/24-12:42:52.913 3e7c compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/01/24-12:42:52.914 3e7c Delete type=2 #132
+2023/01/24-12:42:52.914 3e7c Delete type=2 #133
+2023/01/24-12:42:52.914 3e7c Delete type=2 #134
+2023/01/24-12:42:52.914 3e7c Delete type=2 #135
+2023/01/24-12:42:52.914 3e7c Delete type=2 #136
+2023/01/24-12:42:52.914 3e7c Delete type=2 #139
